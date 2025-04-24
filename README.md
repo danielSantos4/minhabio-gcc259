@@ -2,9 +2,9 @@
 ![opa](https://e7.pngegg.com/pngimages/428/798/png-clipart-link-the-legend-of-zelda-the-wind-waker-cartoon-the-legend-of-zelda-smiley-fictional-character-thumbnail.png)
 
 ## Informações pessoais
-Nome: Daniel Messias Santos
-Curso: Ciência da Computação
-Periodo: 9º
+Nome: Daniel Messias Santos </br>
+Curso: Ciência da Computação </br>
+Periodo: 9º </br>
 
 ## Perfil
 Sou graduando do 9º período do curso de __Ciências da Computação__, com previsão de formação em __julho de 2025__. Dedico-me à pesquisa de desenvolvimento eficiente de problemas utilizando __grafos__. Valorizo o trabalho em equipe e sou reconhecido pela proatividade. Estou em busca de oportunidades na área de desenvolvimento de softwares ou DevOps.
